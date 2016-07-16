@@ -14,12 +14,12 @@ Note: OB currently does not offer support for a quantity field, but it is on the
 
 SKU creation workflow
 --
-1. An OB contract listing is generated for every SKU using modified OB-etsy-import script
+1. An OB contract listing is generated for every SKU using modified OB-etsy-import script.
 
 Inventory management workflow
 --
 1. wg-inventory.csv is exported from WebGility containing SKU and quantity for all items.
-2. inventory-update script is ran to update OB listing quantity (make listings active) based on provided SKU AND set quantity to 0 (inactive) any OB listing that is not mentioned or has a quantity of 0.
+2. inventory-update script is ran to update OB listing quantity (make listings active) based on provided SKU.  If a SKU is not listed or quantity is listed as 0 in the CSV, the listing is set to inactive.
 
 Order management workflow
 --
