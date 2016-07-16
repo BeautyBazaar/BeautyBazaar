@@ -14,7 +14,7 @@ Note: OB currently does not offer support for a quantity field, but it is on the
 
 SKU creation workflow
 --
-1. An OB contract listing is generated for every SKU using modified OB-etsy-import script with qty set to 0 (inactive)
+1. An OB contract listing is generated for every SKU using modified OB-etsy-import script
 
 Inventory management workflow
 --
