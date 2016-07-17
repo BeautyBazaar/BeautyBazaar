@@ -6,7 +6,7 @@ Overview
 
 OpenBazaar is a decentralized ecommerce platform.
 
-We are an established ecommerce seller looking to add OB as a sales channel and integrate it into our current inventory and order management software, which is centered around WebGility.
+We are an established ecommerce seller looking to add OB as a sales channel and integrate it into our current inventory and order management software, which is centered around WebGility and Quickbooks Point of Sale.
 
 WebGility has CSV functionality for manual import and export, which is an easy place to start for adding this new channel.
 
