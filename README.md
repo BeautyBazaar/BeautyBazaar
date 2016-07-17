@@ -18,8 +18,8 @@ SKU creation workflow
 
 Inventory management workflow
 --
-1. wg-inventory.csv is exported from WebGility containing SKU, price, and quantity for all items.
-2. inventory-update script is ran to update OB listing price & quantity (make listings active) based on provided SKU.  If a SKU is not listed or quantity is listed as 0 in the CSV, the listing is set to inactive.
+1. wg-inventory.csv is exported from WebGility containing SKU and quantity for all items.
+2. inventory-update script is ran to update OB listing quantity (make listings active) based on provided SKU.  If a SKU is not listed or quantity is listed as 0 in the CSV, the listing is set to inactive.
 
 Order management workflow
 --
