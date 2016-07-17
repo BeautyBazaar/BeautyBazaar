@@ -24,4 +24,4 @@ Inventory management workflow
 Order management workflow
 --
 1. Use Export CSV feature in OB to export orders that are ready to ship.
-2. ob-orders-date.csv is imported into WebGility using the manual order import function.
+2. ob-orders-date.csv is imported into management software.
